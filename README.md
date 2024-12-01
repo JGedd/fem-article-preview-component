@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/article-preview-component-ID5z8y_Aqk)
+- Live Site URL: [Live site at Netlify](https://steady-truffle-9ec13b.netlify.app/)
 
 ## My process
 
@@ -64,6 +64,4 @@ I would also like to learn how to style svgs in css more effectively, instead of
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to thank @kenneth0417. Their solution to this challenge helped me figure out how to style the pop up in mobile viewport.
